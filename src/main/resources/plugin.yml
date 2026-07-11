@@ -1,0 +1,3 @@
+name: cloudyplugin
+main: me.cloudy.CloudyPlugin
+api-version: 1.21
